@@ -7,7 +7,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 
 # Replace YOUR_TOKEN with your bot token
-TOKEN = '5900582242:AAFfxB2iwSxVp9FyksYdi0NeLV2WoQq1ihg'
+TOKEN = ''
 bot = telegram.Bot(token=TOKEN)
 
 
